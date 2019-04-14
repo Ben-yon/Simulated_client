@@ -1,0 +1,17 @@
+.panel{
+    margin: 2px ;
+}
+
+.is-mobile{
+    display: none;
+    @media screen and (max-width: 768px) {
+        display: block;
+    }
+}
+
+.is-desktop{
+    display: block;
+    @media screen and (max-width: 768px){
+        display: none;
+    }
+}

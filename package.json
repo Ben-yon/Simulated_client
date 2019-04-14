@@ -8,11 +8,17 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "mixins": "0.0.1",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
+    "vuelidate": "^0.7.4",
     "vuex": "^3.0.1"
   },
+   "repository": {
+     "type": "git",
+     "url": "git+https://github.com/Ben-yon/Simulated_2.0.git"
+   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-plugin-pwa": "^3.5.0",
