@@ -17,7 +17,7 @@
   },
    "repository": {
      "type": "git",
-     "url": "git+https://github.com/Ben-yon/Simulated_2.0.git"
+     "url": "git+https://github.com/Ben-yon/Simulated_client.git"
    },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
